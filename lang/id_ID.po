@@ -1,0 +1,209 @@
+# Copyright (C) 2013 WordPress
+msgid ""
+msgstr ""
+"Project-Id-Version: Vafpress Framework\n"
+"POT-Creation-Date: 2013-08-29 16:41+0700\n"
+"PO-Revision-Date: 2013-08-29 16:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+
+#: /bootstrap.php:81 /classes/option.php:293 /classes/option.php:311
+msgid "Success"
+msgstr "Berhasil"
+
+#: /classes/metabox.php:35
+msgid "[Dev Mode] "
+msgstr "[Mode Pengembang]"
+
+#: /classes/metabox.php:545 /classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr "Hapus"
+
+#: /classes/metabox.php:567 /classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr "Tambahkan"
+
+#: /classes/option.php:46 /classes/option.php:47
+msgid "Vafpress Options"
+msgstr "Opsi Vafpress"
+
+#: /classes/option.php:53
+msgid "Option Key is required."
+msgstr "Kunci Opsi diperlukan"
+
+#: /classes/option.php:55
+msgid "Template Array/File is required."
+msgstr "Template Array/Berkas diperlukan"
+
+#: /classes/option.php:57
+msgid "Page Slug is required"
+msgstr "Slug Halaman diperlukan"
+
+#: /classes/option.php:256
+msgid "Can't be empty."
+msgstr "Tidak boleh kosong."
+
+#: /classes/option.php:271
+msgid "Invalid data."
+msgstr "Data tidak valid"
+
+#: /classes/option.php:316
+msgid "Unverified Access."
+msgstr "Akese tidak terverifikasi"
+
+#: /classes/option.php:387
+msgid "Invalid template supplied"
+msgstr "Template yang disedikan tidak valid"
+
+#: /classes/option.php:398
+msgid "Utility"
+msgstr "Utilitas"
+
+#: /classes/option.php:404 /views/option/restore.php:11
+msgid "Restore Default"
+msgstr "Kembalikan Semula"
+
+#: /classes/option.php:415
+msgid "Export/Import"
+msgstr "Ekspor/Impor"
+
+#: /classes/option/control/set.php:359
+msgid "Saving success."
+msgstr "Penyimpanan berhasil."
+
+#: /classes/option/control/set.php:370
+msgid "Saving failed."
+msgstr "Penyimpanan Gagal"
+
+#: /classes/option/control/set.php:376
+msgid "No changes made."
+msgstr "Tidak terjadi perubahan."
+
+#: /classes/wp/tracker.php:27
+msgid "Once Weekly"
+msgstr "Seminggu Sekali"
+
+#: /config/messages.php:13
+msgid "Value need to be Alphabet"
+msgstr "Nilai harus berupa Alfabet"
+
+#: /config/messages.php:14
+msgid "Value need to be Alphanumeric"
+msgstr "Nilai harus berupa Alfanumerik"
+
+#: /config/messages.php:15
+msgid "Value need to be Numeric"
+msgstr "Nilai harus berupa Numerik"
+
+#: /config/messages.php:16
+msgid "Value need to be Valid Email"
+msgstr "Nilai harus berupa Email valid"
+
+#: /config/messages.php:17
+msgid "Value need to be Valid URL"
+msgstr "Nilai harus berupa URL valid"
+
+#: /config/messages.php:18
+msgid "Length need to be less than {0} characters"
+msgstr "Panjang harus kurang dari {0} karakter"
+
+#: /config/messages.php:19
+msgid "Length need to be more than {0} characters"
+msgstr "Panjang harus lebih dari {0} karakter"
+
+#: /config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr "Pilih tidak lebih dari {0} karakter"
+
+#: /config/messages.php:21
+msgid "Select at least {0} items"
+msgstr "Pilih paling tidak {0} item"
+
+#: /config/messages.php:22
+msgid "This is Required"
+msgstr "Wajib diisi"
+
+#: /config/messages.php:29
+msgid "Import success, option page will be refreshed.."
+msgstr "Impor berhasil, halaman opsi akan disegarkan.."
+
+#: /config/messages.php:30
+msgid "Import failed"
+msgstr "Impor gagal"
+
+#: /config/messages.php:31
+msgid "Export success, copy the serialized options"
+msgstr "Ekspor berhasil, halaman opsi akan disegarkan.."
+
+#: /config/messages.php:32
+msgid "Export failed"
+msgstr "Ekspor gagal"
+
+#: /config/messages.php:33
+msgid "Restore success, option page will be refreshed.."
+msgstr "Pengembalian berhasil, halaman opsi akan disegarkan.."
+
+#: /config/messages.php:34
+msgid "Options identical to default."
+msgstr "Opsi sama dengan asli"
+
+#: /config/messages.php:35
+msgid "Restore failed"
+msgstr "Pengembalian Gagal"
+
+#: /config/messages.php:43
+msgid "Select option(s)"
+msgstr "Pilih opsi"
+
+#: /config/messages.php:45
+msgid "Select an Icon"
+msgstr "Pilih Icon"
+
+#: /views/control/upload.php:5
+msgid "Choose File"
+msgstr "Pilih Berkas"
+
+#: /views/option/impexp.php:4 /views/option/impexp.php:12
+msgid "Import"
+msgstr "Impor"
+
+#: /views/option/impexp.php:5
+msgid "Import Options"
+msgstr "Opsi Impor"
+
+#: /views/option/impexp.php:25 /views/option/impexp.php:33
+msgid "Export"
+msgstr "Ekspor"
+
+#: /views/option/impexp.php:26
+msgid "Export Options"
+msgstr "Opsi Ekspor"
+
+#: /views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr "Kembalikan Opsi Semula"
+
+#: /views/option/restore.php:5
+msgid "Restore options to initial default values."
+msgstr "Kembalikan opsi ke nilai awal."
+
+#: /views/option/set.php:69 /views/option/set.php:84
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: /views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+"Opsi Panel ini dibuat menggunakan <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> didukung oleh <a href=\"http://"
+"vafpress.com\">Vafpress</a>"
