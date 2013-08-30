@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Vafpress Framework\n"
-"POT-Creation-Date: 2013-08-29 16:41+0700\n"
-"PO-Revision-Date: 2013-08-29 16:46+0700\n"
+"POT-Creation-Date: 2013-08-30 16:32+0700\n"
+"PO-Revision-Date: 2013-08-30 16:33+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,9 @@ msgstr ""
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-Basepath: .\n"
 
-#: /bootstrap.php:81 /classes/option.php:293 /classes/option.php:311
+#: /bootstrap.php:81
+#: /classes/option.php:293
+#: /classes/option.php:311
 msgid "Success"
 msgstr "Berhasil"
 
@@ -21,15 +23,18 @@ msgstr "Berhasil"
 msgid "[Dev Mode] "
 msgstr "[Mode Pengembang]"
 
-#: /classes/metabox.php:545 /classes/metabox/alchemy.php:493
+#: /classes/metabox.php:545
+#: /classes/metabox/alchemy.php:493
 msgid "Remove"
 msgstr "Hapus"
 
-#: /classes/metabox.php:567 /classes/metabox/alchemy.php:515
+#: /classes/metabox.php:567
+#: /classes/metabox/alchemy.php:515
 msgid "Add More"
 msgstr "Tambahkan"
 
-#: /classes/option.php:46 /classes/option.php:47
+#: /classes/option.php:46
+#: /classes/option.php:47
 msgid "Vafpress Options"
 msgstr "Opsi Vafpress"
 
@@ -65,7 +70,8 @@ msgstr "Template yang disedikan tidak valid"
 msgid "Utility"
 msgstr "Utilitas"
 
-#: /classes/option.php:404 /views/option/restore.php:11
+#: /classes/option.php:404
+#: /views/option/restore.php:11
 msgid "Restore Default"
 msgstr "Kembalikan Semula"
 
@@ -169,7 +175,8 @@ msgstr "Pilih Icon"
 msgid "Choose File"
 msgstr "Pilih Berkas"
 
-#: /views/option/impexp.php:4 /views/option/impexp.php:12
+#: /views/option/impexp.php:4
+#: /views/option/impexp.php:12
 msgid "Import"
 msgstr "Impor"
 
@@ -177,7 +184,8 @@ msgstr "Impor"
 msgid "Import Options"
 msgstr "Opsi Impor"
 
-#: /views/option/impexp.php:25 /views/option/impexp.php:33
+#: /views/option/impexp.php:25
+#: /views/option/impexp.php:33
 msgid "Export"
 msgstr "Ekspor"
 
@@ -193,9 +201,15 @@ msgstr "Kembalikan Opsi Semula"
 msgid "Restore options to initial default values."
 msgstr "Kembalikan opsi ke nilai awal."
 
-#: /views/option/set.php:69 /views/option/set.php:84
+#: /views/option/set.php:69
+#: /views/option/set.php:84
 msgid "Save Changes"
 msgstr "Simpan Perubahan"
+
+#: /views/option/set.php:70
+#: /views/option/set.php:85
+msgid "Saving Now"
+msgstr "Menyimpan sekarang"
 
 #: /views/option/set.php:93
 #, php-format

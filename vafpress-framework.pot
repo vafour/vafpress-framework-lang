@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Vafpress Framework\n"
-"POT-Creation-Date: 2013-08-29 16:23+0700\n"
-"PO-Revision-Date: 2013-08-29 16:53+0700\n"
+"POT-Creation-Date: 2013-08-30 16:30+0700\n"
+"PO-Revision-Date: 2013-08-30 16:30+0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: vafour <contact@vafour.com>\n"
 "Language: English\n"
@@ -15,10 +15,10 @@ msgstr ""
 "X-Generator: Poedit 1.5.7\n"
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SourceCharset: UTF-8\n"i8
 
-#: /bootstrap.php:81 
-#: /classes/option.php:293 
+#: /bootstrap.php:81
+#: /classes/option.php:293
 #: /classes/option.php:311
 msgid "Success"
 msgstr ""
@@ -27,15 +27,18 @@ msgstr ""
 msgid "[Dev Mode] "
 msgstr ""
 
-#: /classes/metabox.php:545 /classes/metabox/alchemy.php:493
+#: /classes/metabox.php:545
+#: /classes/metabox/alchemy.php:493
 msgid "Remove"
 msgstr ""
 
-#: /classes/metabox.php:567 /classes/metabox/alchemy.php:515
+#: /classes/metabox.php:567
+#: /classes/metabox/alchemy.php:515
 msgid "Add More"
 msgstr ""
 
-#: /classes/option.php:46 /classes/option.php:47
+#: /classes/option.php:46
+#: /classes/option.php:47
 msgid "Vafpress Options"
 msgstr ""
 
@@ -71,7 +74,8 @@ msgstr ""
 msgid "Utility"
 msgstr ""
 
-#: /classes/option.php:404 /views/option/restore.php:11
+#: /classes/option.php:404
+#: /views/option/restore.php:11
 msgid "Restore Default"
 msgstr ""
 
@@ -175,7 +179,8 @@ msgstr ""
 msgid "Choose File"
 msgstr ""
 
-#: /views/option/impexp.php:4 /views/option/impexp.php:12
+#: /views/option/impexp.php:4
+#: /views/option/impexp.php:12
 msgid "Import"
 msgstr ""
 
@@ -183,7 +188,8 @@ msgstr ""
 msgid "Import Options"
 msgstr ""
 
-#: /views/option/impexp.php:25 /views/option/impexp.php:33
+#: /views/option/impexp.php:25
+#: /views/option/impexp.php:33
 msgid "Export"
 msgstr ""
 
@@ -199,8 +205,14 @@ msgstr ""
 msgid "Restore options to initial default values."
 msgstr ""
 
-#: /views/option/set.php:69 /views/option/set.php:84
+#: /views/option/set.php:69
+#: /views/option/set.php:84
 msgid "Save Changes"
+msgstr ""
+
+#: /views/option/set.php:70
+#: /views/option/set.php:85
+msgid "Saving Now"
 msgstr ""
 
 #: /views/option/set.php:93
