@@ -1,0 +1,209 @@
+# Copyright (C) 2013 WordPress
+msgid ""
+msgstr ""
+"Project-Id-Version: Vafpress Framework\n"
+"POT-Creation-Date: 2013-08-29 16:41+0700\n"
+"PO-Revision-Date: 2013-08-30 17:14+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+
+#: /bootstrap.php:81 /classes/option.php:293 /classes/option.php:311
+msgid "Success"
+msgstr "成功"
+
+#: /classes/metabox.php:35
+msgid "[Dev Mode] "
+msgstr "「開発モード」"
+
+#: /classes/metabox.php:545 /classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr "削除"
+
+#: /classes/metabox.php:567 /classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr "追加"
+
+#: /classes/option.php:46 /classes/option.php:47
+msgid "Vafpress Options"
+msgstr "Vafpressオプション"
+
+#: /classes/option.php:53
+msgid "Option Key is required."
+msgstr "オプションキーが入力必須です。"
+
+#: /classes/option.php:55
+msgid "Template Array/File is required."
+msgstr "テンプレート配列・ファイルが必須です。"
+
+#: /classes/option.php:57
+msgid "Page Slug is required"
+msgstr "ページのスラッグが入力必須です。"
+
+#: /classes/option.php:256
+msgid "Can't be empty."
+msgstr "このフィールドを入力してください。"
+
+#: /classes/option.php:271
+msgid "Invalid data."
+msgstr "データは正しくありません。"
+
+#: /classes/option.php:316
+msgid "Unverified Access."
+msgstr "アクセス認証されていません。"
+
+#: /classes/option.php:387
+msgid "Invalid template supplied"
+msgstr "テンプレートは正しくありません。"
+
+#: /classes/option.php:398
+msgid "Utility"
+msgstr "ユーティリティ"
+
+#: /classes/option.php:404 /views/option/restore.php:11
+msgid "Restore Default"
+msgstr "元に戻します。"
+
+#: /classes/option.php:415
+msgid "Export/Import"
+msgstr "エクスポート・インポート"
+
+#: /classes/option/control/set.php:359
+msgid "Saving success."
+msgstr "保存は成功しました。"
+
+#: /classes/option/control/set.php:370
+msgid "Saving failed."
+msgstr "保存は失敗しました。"
+
+#: /classes/option/control/set.php:376
+msgid "No changes made."
+msgstr "変更はなし。"
+
+#: /classes/wp/tracker.php:27
+msgid "Once Weekly"
+msgstr "一週間一度"
+
+#: /config/messages.php:13
+msgid "Value need to be Alphabet"
+msgstr "文字のみ値です。"
+
+#: /config/messages.php:14
+msgid "Value need to be Alphanumeric"
+msgstr "文字と数字のみ値です。"
+
+#: /config/messages.php:15
+msgid "Value need to be Numeric"
+msgstr "数字のみ値です。"
+
+#: /config/messages.php:16
+msgid "Value need to be Valid Email"
+msgstr "正しいEメールアドレスを入力してください。"
+
+#: /config/messages.php:17
+msgid "Value need to be Valid URL"
+msgstr "正しいURLを入力してください。"
+
+#: /config/messages.php:18
+msgid "Length need to be less than {0} characters"
+msgstr "値の長さは{0}字以下必要です。"
+
+#: /config/messages.php:19
+msgid "Length need to be more than {0} characters"
+msgstr "値の長さは{0}字以上必要です。"
+
+#: /config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr "アイテムは{0}つ以下を選択してください。"
+
+#: /config/messages.php:21
+msgid "Select at least {0} items"
+msgstr "アイテムは{0}つ以上を選択してください。"
+
+#: /config/messages.php:22
+msgid "This is Required"
+msgstr "このフィールドは必須です。"
+
+#: /config/messages.php:29
+msgid "Import success, option page will be refreshed.."
+msgstr "インポートは成功しました。オプションページを再読み込みします。"
+
+#: /config/messages.php:30
+msgid "Import failed"
+msgstr "インポートは失敗しました。"
+
+#: /config/messages.php:31
+msgid "Export success, copy the serialized options"
+msgstr "エクスポートは成功しました。オプションページを再読み込みします。"
+
+#: /config/messages.php:32
+msgid "Export failed"
+msgstr "エクスポートは失敗しました。"
+
+#: /config/messages.php:33
+msgid "Restore success, option page will be refreshed.."
+msgstr "復元は成功しました。オプションページを再読み込みします。"
+
+#: /config/messages.php:34
+msgid "Options identical to default."
+msgstr "元のオプションと同じです。"
+
+#: /config/messages.php:35
+msgid "Restore failed"
+msgstr "復元は失敗しました。"
+
+#: /config/messages.php:43
+msgid "Select option(s)"
+msgstr "オプションを選択してください。"
+
+#: /config/messages.php:45
+msgid "Select an Icon"
+msgstr "アイコンを選択してください。"
+
+#: /views/control/upload.php:5
+msgid "Choose File"
+msgstr "ファイルを選択してください。"
+
+#: /views/option/impexp.php:4 /views/option/impexp.php:12
+msgid "Import"
+msgstr "インポート"
+
+#: /views/option/impexp.php:5
+msgid "Import Options"
+msgstr "インポート詳細"
+
+#: /views/option/impexp.php:25 /views/option/impexp.php:33
+msgid "Export"
+msgstr "エクスポート"
+
+#: /views/option/impexp.php:26
+msgid "Export Options"
+msgstr "エクスポート詳細"
+
+#: /views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr "元のオプションに戻す"
+
+#: /views/option/restore.php:5
+msgid "Restore options to initial default values."
+msgstr "オプションの元の値に戻す"
+
+#: /views/option/set.php:69 /views/option/set.php:84
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: /views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+"このオプションパーネルは<a href=\"http://vafpress.com/vafpress-framework"
+"\">Vafpress Framework %s</a>で作成されました。<a href=\"http://vafpress.com"
+"\">Vafpress</a>がサポートします。"
