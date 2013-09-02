@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Vafpress Framework\n"
-"POT-Creation-Date: 2013-08-30 16:32+0700\n"
-"PO-Revision-Date: 2013-08-30 16:33+0700\n"
+"POT-Creation-Date: 2013-08-30 17:59+0700\n"
+"PO-Revision-Date: 2013-08-30 17:59+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -12,206 +12,226 @@ msgstr ""
 "X-Generator: Poedit 1.5.7\n"
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\demo.vafpress\\wp-content\\themes"
+"\\vafpress-framework\n"
 
-#: /bootstrap.php:81
-#: /classes/option.php:293
-#: /classes/option.php:311
-msgid "Success"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/bootstrap.php:81
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:293
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:311
+#, fuzzy
+msgid "Successful"
 msgstr "Berhasil"
 
-#: /classes/metabox.php:35
-msgid "[Dev Mode] "
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox.php:35
+#, fuzzy
+msgid "[Development Mode] "
 msgstr "[Mode Pengembang]"
 
-#: /classes/metabox.php:545
-#: /classes/metabox/alchemy.php:493
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox.php:545
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox/alchemy.php:493
 msgid "Remove"
 msgstr "Hapus"
 
-#: /classes/metabox.php:567
-#: /classes/metabox/alchemy.php:515
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox.php:567
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox/alchemy.php:515
 msgid "Add More"
 msgstr "Tambahkan"
 
-#: /classes/option.php:46
-#: /classes/option.php:47
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:46
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:47
 msgid "Vafpress Options"
 msgstr "Opsi Vafpress"
 
-#: /classes/option.php:53
-msgid "Option Key is required."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:53
+#, fuzzy
+msgid "Option Key is required"
 msgstr "Kunci Opsi diperlukan"
 
-#: /classes/option.php:55
-msgid "Template Array/File is required."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:55
+#, fuzzy
+msgid "Template Array/File is required"
 msgstr "Template Array/Berkas diperlukan"
 
-#: /classes/option.php:57
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:57
 msgid "Page Slug is required"
 msgstr "Slug Halaman diperlukan"
 
-#: /classes/option.php:256
-msgid "Can't be empty."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:256
+#, fuzzy
+msgid "Can not be empty"
 msgstr "Tidak boleh kosong."
 
-#: /classes/option.php:271
-msgid "Invalid data."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:271
+#, fuzzy
+msgid "Invalid data"
 msgstr "Data tidak valid"
 
-#: /classes/option.php:316
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:316
 msgid "Unverified Access."
 msgstr "Akese tidak terverifikasi"
 
-#: /classes/option.php:387
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:387
 msgid "Invalid template supplied"
 msgstr "Template yang disedikan tidak valid"
 
-#: /classes/option.php:398
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:398
 msgid "Utility"
 msgstr "Utilitas"
 
-#: /classes/option.php:404
-#: /views/option/restore.php:11
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:404
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/restore.php:11
 msgid "Restore Default"
 msgstr "Kembalikan Semula"
 
-#: /classes/option.php:415
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:415
 msgid "Export/Import"
 msgstr "Ekspor/Impor"
 
-#: /classes/option/control/set.php:359
-msgid "Saving success."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option/control/set.php:359
+#, fuzzy
+msgid "Saving successful"
 msgstr "Penyimpanan berhasil."
 
-#: /classes/option/control/set.php:370
-msgid "Saving failed."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option/control/set.php:370
+#, fuzzy
+msgid "Saving failed"
 msgstr "Penyimpanan Gagal"
 
-#: /classes/option/control/set.php:376
-msgid "No changes made."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option/control/set.php:376
+#, fuzzy
+msgid "No changes made"
 msgstr "Tidak terjadi perubahan."
 
-#: /classes/wp/tracker.php:27
-msgid "Once Weekly"
-msgstr "Seminggu Sekali"
-
-#: /config/messages.php:13
-msgid "Value need to be Alphabet"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:13
+#, fuzzy
+msgid "Value needs to be Alphabet"
 msgstr "Nilai harus berupa Alfabet"
 
-#: /config/messages.php:14
-msgid "Value need to be Alphanumeric"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:14
+#, fuzzy
+msgid "Value needs to be Alphanumeric"
 msgstr "Nilai harus berupa Alfanumerik"
 
-#: /config/messages.php:15
-msgid "Value need to be Numeric"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:15
+#, fuzzy
+msgid "Value needs to be Numeric"
 msgstr "Nilai harus berupa Numerik"
 
-#: /config/messages.php:16
-msgid "Value need to be Valid Email"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:16
+#, fuzzy
+msgid "Value needs to be Valid Email"
 msgstr "Nilai harus berupa Email valid"
 
-#: /config/messages.php:17
-msgid "Value need to be Valid URL"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:17
+#, fuzzy
+msgid "Value needs to be Valid URL"
 msgstr "Nilai harus berupa URL valid"
 
-#: /config/messages.php:18
-msgid "Length need to be less than {0} characters"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:18
+#, fuzzy
+msgid "Length needs to be less than {0} characters"
 msgstr "Panjang harus kurang dari {0} karakter"
 
-#: /config/messages.php:19
-msgid "Length need to be more than {0} characters"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:19
+#, fuzzy
+msgid "Length needs to be more than {0} characters"
 msgstr "Panjang harus lebih dari {0} karakter"
 
-#: /config/messages.php:20
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:20
 msgid "Select no more than {0} items"
 msgstr "Pilih tidak lebih dari {0} karakter"
 
-#: /config/messages.php:21
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:21
 msgid "Select at least {0} items"
 msgstr "Pilih paling tidak {0} item"
 
-#: /config/messages.php:22
-msgid "This is Required"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:22
+#, fuzzy
+msgid "This is required"
 msgstr "Wajib diisi"
 
-#: /config/messages.php:29
-msgid "Import success, option page will be refreshed.."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:29
+#, fuzzy
+msgid "Import succeed, option page will be refreshed.."
 msgstr "Impor berhasil, halaman opsi akan disegarkan.."
 
-#: /config/messages.php:30
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:30
 msgid "Import failed"
 msgstr "Impor gagal"
 
-#: /config/messages.php:31
-msgid "Export success, copy the serialized options"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:31
+#, fuzzy
+msgid "Export succeed, copy the serialized options"
 msgstr "Ekspor berhasil, halaman opsi akan disegarkan.."
 
-#: /config/messages.php:32
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:32
 msgid "Export failed"
 msgstr "Ekspor gagal"
 
-#: /config/messages.php:33
-msgid "Restore success, option page will be refreshed.."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:33
+#, fuzzy
+msgid "Restoration succeed, option page will be refreshed.."
 msgstr "Pengembalian berhasil, halaman opsi akan disegarkan.."
 
-#: /config/messages.php:34
-msgid "Options identical to default."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:34
+#, fuzzy
+msgid "Options identical to default"
 msgstr "Opsi sama dengan asli"
 
-#: /config/messages.php:35
-msgid "Restore failed"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:35
+#, fuzzy
+msgid "Restoration failed"
 msgstr "Pengembalian Gagal"
 
-#: /config/messages.php:43
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:43
 msgid "Select option(s)"
 msgstr "Pilih opsi"
 
-#: /config/messages.php:45
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:45
 msgid "Select an Icon"
 msgstr "Pilih Icon"
 
-#: /views/control/upload.php:5
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/control/upload.php:5
 msgid "Choose File"
 msgstr "Pilih Berkas"
 
-#: /views/option/impexp.php:4
-#: /views/option/impexp.php:12
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:4
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:12
 msgid "Import"
 msgstr "Impor"
 
-#: /views/option/impexp.php:5
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:5
 msgid "Import Options"
 msgstr "Opsi Impor"
 
-#: /views/option/impexp.php:25
-#: /views/option/impexp.php:33
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:25
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:33
 msgid "Export"
 msgstr "Ekspor"
 
-#: /views/option/impexp.php:26
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:26
 msgid "Export Options"
 msgstr "Opsi Ekspor"
 
-#: /views/option/restore.php:4
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/restore.php:4
 msgid "Restore Default Options"
 msgstr "Kembalikan Opsi Semula"
 
-#: /views/option/restore.php:5
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/restore.php:5
 msgid "Restore options to initial default values."
 msgstr "Kembalikan opsi ke nilai awal."
 
-#: /views/option/set.php:69
-#: /views/option/set.php:84
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:69
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:84
 msgid "Save Changes"
 msgstr "Simpan Perubahan"
 
-#: /views/option/set.php:70
-#: /views/option/set.php:85
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:70
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:85
 msgid "Saving Now"
 msgstr "Menyimpan sekarang"
 
-#: /views/option/set.php:93
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:93
 #, php-format
 msgid ""
 "This option panel is built using <a href=\"http://vafpress.com/vafpress-"
@@ -221,3 +241,6 @@ msgstr ""
 "Opsi Panel ini dibuat menggunakan <a href=\"http://vafpress.com/vafpress-"
 "framework\">Vafpress Framework %s</a> didukung oleh <a href=\"http://"
 "vafpress.com\">Vafpress</a>"
+
+#~ msgid "Once Weekly"
+#~ msgstr "Seminggu Sekali"

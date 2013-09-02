@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Vafpress Framework\n"
-"POT-Creation-Date: 2013-08-30 16:30+0700\n"
-"PO-Revision-Date: 2013-08-30 16:30+0700\n"
+"POT-Creation-Date: 2013-08-30 17:51+0700\n"
+"PO-Revision-Date: 2013-08-30 17:51+0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: vafour <contact@vafour.com>\n"
 "Language: English\n"
@@ -15,207 +15,209 @@ msgstr ""
 "X-Generator: Poedit 1.5.7\n"
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SourceCharset: UTF-8\n"i8
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\demo.vafpress\\wp-content\\themes"
+"\\vafpress-framework\n"
 
-#: /bootstrap.php:81
-#: /classes/option.php:293
-#: /classes/option.php:311
-msgid "Success"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/bootstrap.php:81
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:293
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:311
+msgid "Successful"
 msgstr ""
 
-#: /classes/metabox.php:35
-msgid "[Dev Mode] "
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox.php:35
+msgid "[Development Mode] "
 msgstr ""
 
-#: /classes/metabox.php:545
-#: /classes/metabox/alchemy.php:493
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox.php:545
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox/alchemy.php:493
 msgid "Remove"
 msgstr ""
 
-#: /classes/metabox.php:567
-#: /classes/metabox/alchemy.php:515
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox.php:567
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox/alchemy.php:515
 msgid "Add More"
 msgstr ""
 
-#: /classes/option.php:46
-#: /classes/option.php:47
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:46
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:47
 msgid "Vafpress Options"
 msgstr ""
 
-#: /classes/option.php:53
-msgid "Option Key is required."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:53
+msgid "Option Key is required"
 msgstr ""
 
-#: /classes/option.php:55
-msgid "Template Array/File is required."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:55
+msgid "Template Array/File is required"
 msgstr ""
 
-#: /classes/option.php:57
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:57
 msgid "Page Slug is required"
 msgstr ""
 
-#: /classes/option.php:256
-msgid "Can't be empty."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:256
+msgid "Can not be empty"
 msgstr ""
 
-#: /classes/option.php:271
-msgid "Invalid data."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:271
+msgid "Invalid data"
 msgstr ""
 
-#: /classes/option.php:316
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:316
 msgid "Unverified Access."
 msgstr ""
 
-#: /classes/option.php:387
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:387
 msgid "Invalid template supplied"
 msgstr ""
 
-#: /classes/option.php:398
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:398
 msgid "Utility"
 msgstr ""
 
-#: /classes/option.php:404
-#: /views/option/restore.php:11
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:404
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/restore.php:11
 msgid "Restore Default"
 msgstr ""
 
-#: /classes/option.php:415
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:415
 msgid "Export/Import"
 msgstr ""
 
-#: /classes/option/control/set.php:359
-msgid "Saving success."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option/control/set.php:359
+msgid "Saving successful"
 msgstr ""
 
-#: /classes/option/control/set.php:370
-msgid "Saving failed."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option/control/set.php:370
+msgid "Saving failed"
 msgstr ""
 
-#: /classes/option/control/set.php:376
-msgid "No changes made."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option/control/set.php:376
+msgid "No changes made"
 msgstr ""
 
-#: /classes/wp/tracker.php:27
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/wp/tracker.php:27
 msgid "Once Weekly"
 msgstr ""
 
-#: /config/messages.php:13
-msgid "Value need to be Alphabet"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
 msgstr ""
 
-#: /config/messages.php:14
-msgid "Value need to be Alphanumeric"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
 msgstr ""
 
-#: /config/messages.php:15
-msgid "Value need to be Numeric"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:15
+msgid "Value needs to be Numeric"
 msgstr ""
 
-#: /config/messages.php:16
-msgid "Value need to be Valid Email"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
 msgstr ""
 
-#: /config/messages.php:17
-msgid "Value need to be Valid URL"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
 msgstr ""
 
-#: /config/messages.php:18
-msgid "Length need to be less than {0} characters"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
 msgstr ""
 
-#: /config/messages.php:19
-msgid "Length need to be more than {0} characters"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
 msgstr ""
 
-#: /config/messages.php:20
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:20
 msgid "Select no more than {0} items"
 msgstr ""
 
-#: /config/messages.php:21
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:21
 msgid "Select at least {0} items"
 msgstr ""
 
-#: /config/messages.php:22
-msgid "This is Required"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:22
+msgid "This is required"
 msgstr ""
 
-#: /config/messages.php:29
-msgid "Import success, option page will be refreshed.."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
 msgstr ""
 
-#: /config/messages.php:30
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:30
 msgid "Import failed"
 msgstr ""
 
-#: /config/messages.php:31
-msgid "Export success, copy the serialized options"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:31
+msgid "Export succeed, copy the serialized options"
 msgstr ""
 
-#: /config/messages.php:32
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:32
 msgid "Export failed"
 msgstr ""
 
-#: /config/messages.php:33
-msgid "Restore success, option page will be refreshed.."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
 msgstr ""
 
-#: /config/messages.php:34
-msgid "Options identical to default."
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:34
+msgid "Options identical to default"
 msgstr ""
 
-#: /config/messages.php:35
-msgid "Restore failed"
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:35
+msgid "Restoration failed"
 msgstr ""
 
-#: /config/messages.php:43
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:43
 msgid "Select option(s)"
 msgstr ""
 
-#: /config/messages.php:45
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:45
 msgid "Select an Icon"
 msgstr ""
 
-#: /views/control/upload.php:5
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/control/upload.php:5
 msgid "Choose File"
 msgstr ""
 
-#: /views/option/impexp.php:4
-#: /views/option/impexp.php:12
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:4
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:12
 msgid "Import"
 msgstr ""
 
-#: /views/option/impexp.php:5
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:5
 msgid "Import Options"
 msgstr ""
 
-#: /views/option/impexp.php:25
-#: /views/option/impexp.php:33
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:25
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:33
 msgid "Export"
 msgstr ""
 
-#: /views/option/impexp.php:26
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:26
 msgid "Export Options"
 msgstr ""
 
-#: /views/option/restore.php:4
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/restore.php:4
 msgid "Restore Default Options"
 msgstr ""
 
-#: /views/option/restore.php:5
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/restore.php:5
 msgid "Restore options to initial default values."
 msgstr ""
 
-#: /views/option/set.php:69
-#: /views/option/set.php:84
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:69
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:84
 msgid "Save Changes"
 msgstr ""
 
-#: /views/option/set.php:70
-#: /views/option/set.php:85
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:70
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:85
 msgid "Saving Now"
 msgstr ""
 
-#: /views/option/set.php:93
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:93
 #, php-format
 msgid ""
 "This option panel is built using <a href=\"http://vafpress.com/vafpress-"
