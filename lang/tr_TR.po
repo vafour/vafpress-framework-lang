@@ -1,0 +1,216 @@
+# LANGUAGE (LOCALE) translation for Vafpress Framework.
+# Copyright (C) 2013 Vafpress.com
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vafpress Framework\n"
+"POT-Creation-Date: 2013-08-30 16:30+0700\n"
+"PO-Revision-Date: 2013-09-01 14:03+0200\n"
+"Last-Translator: Kaan Karakaya <kaan@krky.org>\n"
+"Language-Team: krky <kaan@krky.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Language: Turkish\n"
+
+#: /bootstrap.php:81 /classes/option.php:293 /classes/option.php:311
+msgid "Success"
+msgstr "Başarılı"
+
+#: /classes/metabox.php:35
+msgid "[Dev Mode] "
+msgstr "[Geliştirici Modu]"
+
+#: /classes/metabox.php:545 /classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr "Kaldır"
+
+#: /classes/metabox.php:567 /classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr "Daha Fazla Ekle"
+
+#: /classes/option.php:46 /classes/option.php:47
+msgid "Vafpress Options"
+msgstr "Vafpress Opsiyonları"
+
+#: /classes/option.php:53
+msgid "Option Key is required."
+msgstr "Opsiyon Anahtarı gerekli."
+
+#: /classes/option.php:55
+msgid "Template Array/File is required."
+msgstr "Opsiyon Şablonu Dizisi/Dosyası gerekli."
+
+#: /classes/option.php:57
+msgid "Page Slug is required"
+msgstr "Sayfa url değeri gerekli"
+
+#: /classes/option.php:256
+msgid "Can't be empty."
+msgstr "Boş bırakılamaz."
+
+#: /classes/option.php:271
+msgid "Invalid data."
+msgstr "Geçersiz veri."
+
+#: /classes/option.php:316
+msgid "Unverified Access."
+msgstr "Doğrulanmamış Erişim."
+
+#: /classes/option.php:387
+msgid "Invalid template supplied"
+msgstr "Geçersiz şablon seçimi"
+
+#: /classes/option.php:398
+msgid "Utility"
+msgstr "Araçlar"
+
+#: /classes/option.php:404 /views/option/restore.php:11
+msgid "Restore Default"
+msgstr "Varsayılanı Getir"
+
+#: /classes/option.php:415
+msgid "Export/Import"
+msgstr "Dışa/İçe Aktar"
+
+#: /classes/option/control/set.php:359
+msgid "Saving success."
+msgstr "Kaydetme başarılı."
+
+#: /classes/option/control/set.php:370
+msgid "Saving failed."
+msgstr "Kaydetme başarısız."
+
+#: /classes/option/control/set.php:376
+msgid "No changes made."
+msgstr "Değişiklik yapılmadı."
+
+#: /classes/wp/tracker.php:27
+msgid "Once Weekly"
+msgstr "Haftada Bir Kez"
+
+#: /config/messages.php:13
+msgid "Value need to be Alphabet"
+msgstr "Değer harflerden oluşmalı"
+
+#: /config/messages.php:14
+msgid "Value need to be Alphanumeric"
+msgstr "Değer harf ve rakamlardan oluşmalı"
+
+#: /config/messages.php:15
+msgid "Value need to be Numeric"
+msgstr "Değer rakamlardan oluşmalı"
+
+#: /config/messages.php:16
+msgid "Value need to be Valid Email"
+msgstr "Değer geçerli email adresi içermeli"
+
+#: /config/messages.php:17
+msgid "Value need to be Valid URL"
+msgstr "Değer geçerli url adresi içermeli"
+
+#: /config/messages.php:18
+msgid "Length need to be less than {0} characters"
+msgstr "Karakter sayısı {0} karakterden az olmalı"
+
+#: /config/messages.php:19
+msgid "Length need to be more than {0} characters"
+msgstr "Karakter sayısı {0} karakterden fazla olmalı"
+
+#: /config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr "En fazla {0} öğe seçebilirsiniz"
+
+#: /config/messages.php:21
+msgid "Select at least {0} items"
+msgstr "En az {0} öğe seçebilirsiniz"
+
+#: /config/messages.php:22
+msgid "This is Required"
+msgstr "Zorunlu Alan"
+
+#: /config/messages.php:29
+msgid "Import success, option page will be refreshed.."
+msgstr "İçe aktarma başarılı, opsiyon sayfası yenilenecek..."
+
+#: /config/messages.php:30
+msgid "Import failed"
+msgstr "İçe aktarma başarısız"
+
+#: /config/messages.php:31
+msgid "Export success, copy the serialized options"
+msgstr "Dışa aktarma başarılı, seçenek çıktılarını kopyalayın"
+
+#: /config/messages.php:32
+msgid "Export failed"
+msgstr "Dışa aktarma başarısız"
+
+#: /config/messages.php:33
+msgid "Restore success, option page will be refreshed.."
+msgstr "Varsayılanı geri getirme başarılı, opsiyon sayfası yenilenecek..."
+
+#: /config/messages.php:34
+msgid "Options identical to default."
+msgstr "İlk seçeneklerle aynı değerlere sahip"
+
+#: /config/messages.php:35
+msgid "Restore failed"
+msgstr "Geri getirme başarısız"
+
+#: /config/messages.php:43
+msgid "Select option(s)"
+msgstr "Opsiyonu(ları) seç"
+
+#: /config/messages.php:45
+msgid "Select an Icon"
+msgstr "Bir İkon Seçin"
+
+#: /views/control/upload.php:5
+msgid "Choose File"
+msgstr "Dosya Seçin"
+
+#: /views/option/impexp.php:4 /views/option/impexp.php:12
+msgid "Import"
+msgstr "İçe Aktar"
+
+#: /views/option/impexp.php:5
+msgid "Import Options"
+msgstr "İçe Aktarma Seçenekleri"
+
+#: /views/option/impexp.php:25 /views/option/impexp.php:33
+msgid "Export"
+msgstr "Dışa Aktar"
+
+#: /views/option/impexp.php:26
+msgid "Export Options"
+msgstr "Dışa Aktarma Seçenekleri"
+
+#: /views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr "Varsayılanı Getirme Seçenekleri"
+
+#: /views/option/restore.php:5
+msgid "Restore options to initial default values."
+msgstr "Seçenekleri ilk değerlere dönüştür"
+
+#: /views/option/set.php:69 /views/option/set.php:84
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: /views/option/set.php:70 /views/option/set.php:85
+msgid "Saving Now"
+msgstr "Kaydediliyor"
+
+#: /views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+"Bu opsiyon paneli <a href=\"http://vafpress.com\">Vafpress</a> tarafından "
+"geliştirilen <a href=\"http://vafpress.com/vafpress-framework\">Vafpress "
+"Framework %s</a> kullanılarak yapılmıştır."
