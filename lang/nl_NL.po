@@ -1,0 +1,221 @@
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vafpress Framewor\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/bootstrap.php:81
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:293
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:311
+msgid "Successful"
+msgstr "Succesvol"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr "[Ontwikkelaarsmodus]"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox.php:545
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox.php:567
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr "Nieuwe"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:46
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:47
+msgid "Vafpress Options"
+msgstr "Vafpress instellingen"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:53
+msgid "Option Key is required"
+msgstr "Waarde is verplicht."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:55
+msgid "Template Array/File is required"
+msgstr "Thema bestand is verplicht."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:57
+msgid "Page Slug is required"
+msgstr "Pagina slug is verplicht"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:256
+msgid "Can not be empty"
+msgstr "Mag niet leeg zijn."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:271
+msgid "Invalid data"
+msgstr "Foutieve data."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:316
+msgid "Unverified Access."
+msgstr "Niet-geverifieerde toegang."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:387
+msgid "Invalid template supplied"
+msgstr "Ongeldig thema toegepast"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:398
+msgid "Utility"
+msgstr "Hulpmiddelen"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:404
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/restore.php:11
+msgid "Restore Default"
+msgstr "Herstellen naar standaard instellingen"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option.php:415
+msgid "Export/Import"
+msgstr "Exporteren/importeren"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr "Instellingen opgeslagen."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr "Opslaan mislukt."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr "Geen wijzigingen."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/wp/tracker.php:27
+msgid "Once Weekly"
+msgstr "Wekelijks"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr "Alleen letters zijn toegestaan"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr "Mag alleen cijfers en letters bevatten"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr "Alleen cijfers zijn toegestaan"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr "Vul een geldig e-mailadres in"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr "Vul een geldige URL in"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr "De lengte moet minder dan {0} karakters zijn"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr "De lengte moet minimaal {0} karakters zijn"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr "Selecteer niet meer dan {0} items"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr "Selecteer tenminste {0} items"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:22
+msgid "This is required"
+msgstr "Dit is verplicht"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr "Importeren geslaagd, de pagina zal worden vernieuwd."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:30
+msgid "Import failed"
+msgstr "Importeren mislukt"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:31
+msgid "Export succeed, copy the serialized options"
+msgstr "Exporteren geslaagd, kopieer de seriële code"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:32
+msgid "Export failed"
+msgstr "Exporteren mislukt"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr "Herstellen geslaagd, de pagina zal worden vernieuwd."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr "Er zijn geen wijzigingen gedaan."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr "Herstellen mislukt"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr "Selecteer optie(s)"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr "Selecteer een icoon"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr "Kies een bestand"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:4
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:12
+msgid "Import"
+msgstr "Importeren"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:5
+msgid "Import Options"
+msgstr "Importeer instellingen"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:25
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:33
+msgid "Export"
+msgstr "Exporteren"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/impexp.php:26
+msgid "Export Options"
+msgstr "Exporteer instellingen"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr "Herstellen naar standaard instellingen"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/restore.php:5
+msgid "Restore options to initial default values."
+msgstr "Herstellen naar standaard instellingen."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:69
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:70
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:85
+msgid "Saving Now"
+msgstr "Bezig met opslaan"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+"Dit bedieningspaneel is ontwikkeld met behulp van <a href=\\\\\\\"http://"
+"vafpress.com/vafpress-framework\\\\\\\">Vafpress Framework %s</a> gemaakt "
+"door <a href=\\\\\\\"http://vafpress.com\\\\\\\">Vafpress</a>."
