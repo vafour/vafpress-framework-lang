@@ -219,3 +219,13 @@ msgstr ""
 "Dit bedieningspaneel is ontwikkeld met behulp van <a href=\\\\\\\"http://"
 "vafpress.com/vafpress-framework\\\\\\\">Vafpress Framework %s</a> gemaakt "
 "door <a href=\\\\\\\"http://vafpress.com\\\\\\\">Vafpress</a>."
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/shortcodegenerator.php:258
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/shortcodegenerator.php:259
+msgid "insert"
+msgstr "Invoegen"
+
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/shortcodegenerator.php:259
+#: C:\xampp\htdocs\demo.vafpress\wp-content\themes\vafpress-framework/classes/shortcodegenerator.php:260
+msgid "cancel"
+msgstr "Annuleren"
