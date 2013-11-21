@@ -1,6 +1,6 @@
 # Vafpress Framework I18n
 
-Vafpress framework languages files now are integrated within the framework under it's `directory`.
+Vafpress framework languages files now are integrated within the framework under it's `lang` directory.
 
 Help us translating the framework at https://www.transifex.com/projects/p/vafpress-framework/
 
