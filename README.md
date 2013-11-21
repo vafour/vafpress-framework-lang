@@ -1,5 +1,13 @@
-vafpress-framework-lang
-=======================
+# Vafpress Framework I18n
+
+Vafpress framework languages files now are integrated within the framework under it's `directory`.
+
+Help us translating the framework at https://www.transifex.com/projects/p/vafpress-framework/
+
+
+===================================================================================================
+
+** Deprecated **
 
 Multiple Languages repository for Vafpress Framework
 
